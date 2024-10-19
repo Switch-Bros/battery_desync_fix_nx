@@ -26,7 +26,7 @@ Assuming you start with SYS CFW or OFW/Stock (you can start with EMU CFW, doesn'
 3. Press X button for forcing init
 4. Exit the app properly (press B)
 5. If you want this for OFW, reboot and boot OFW or Stock.
-6. Do 2 full charging cycles (??% -> 100% -> 0% -> 100% -> 0%)
+6. Do 2 full charging cycles (??% -> 100% -> 0% -> 100% -> 0% -> 100%)
 
 - Do not reboot to something else until done!
 - When HOS forces a sleep because battery is too low, wake it again and again
